@@ -1,0 +1,18 @@
+{
+  "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+  "prettier.singleQuote": true,
+  "prettier.typescriptEnable": ["typescript", "typescript", "typescriptreact"],
+  "prettier.eslintIntegration": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "javascript.referencesCodeLens.showOnAllFunctions": true,
+  "javascript.format.semicolons": "insert",
+  "typescript.format.semicolons": "insert",
+  "typescript.referencesCodeLens.showOnAllFunctions": true,
+  "javascript.format.enable": true,
+  "javascript.format.insertSpaceAfterConstructor": true,
+  "files.trimFinalNewlines": true,
+  "files.insertFinalNewline": true,
+  "prettier.proseWrap": "preserve",
+  "prettier.printWidth": 120
+}

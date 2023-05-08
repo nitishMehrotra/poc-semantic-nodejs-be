@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "338d7236-dd2c-4df2-8555-9168a7927287",
+    "name": "Carl Campton",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "a4ac0667-7cf8-4e75-8dd4-23de26f684f5",
+    "name": "Clair Keate",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "198d4db8-2896-4334-a964-b2fbc5e91977",
+    "name": "Connie Girand",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "2709981e-1c16-43cf-8a95-820c1426bdef",
+    "name": "Ayako Oberly",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "115e00ad-e751-45d9-9525-7ca5858a1fc9",
+    "name": "Lula Stendeback",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "6aea5240-3001-424e-8e36-e0e0c28c8da0",
+    "name": "Roosevelt Klepper",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "137ad77d-b68f-4ec6-9b87-e5c4ce67cfd0",
+    "name": "Fredric Toomey",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "e6a7f69c-6bf4-4be5-ab07-46fbe951bff3",
+    "name": "Jordon Hoerl",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "a8b50540-dc63-47a0-809e-9481fe836d36",
+    "name": "Vance Marinero",
+    "role": "PHYSICIAN",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "9a397c37-5d63-421b-9cdc-e5d2d847cbb5",
+    "name": "Junie Hoobler",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "aa050ac5-8cb2-4b7c-a752-998a3ea70628",
+    "name": "Darby Sudan",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "0009bb58-807e-4194-b9df-ee1c6a3b8db8",
+    "name": "Roosevelt Grieser",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "c28683db-8ecc-4a1f-97bf-9ce0450778f3",
+    "name": "Lyndon Cheroki",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "3122b703-4e91-4a3b-854d-04038d570df4",
+    "name": "Korey Rotchford",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "6ccd0777-5301-450b-8e5d-9ca624f0188f",
+    "name": "Willene Platko",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "09978bee-40c5-4e16-9e3f-b44e9cc090de",
+    "name": "Marcelo Deromer",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "71cb03c5-eefe-4c64-ba9d-07774a0e5b98",
+    "name": "Jordon Lownsbery",
+    "role": "PHYSICIAN",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "479e6170-0001-487c-b2d2-d6e5be341f79",
+    "name": "Joann Manna",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "d3036b81-193f-403b-bbcc-e655a716ee29",
+    "name": "Marcellus Brog",
+    "role": "PHYSICIAN",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "73848bba-3a17-444c-ad0d-9ac658c6d341",
+    "name": "Silas Clines",
+    "role": "PHYSICIAN",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "0e507749-784d-4039-81e2-13f8dc17c8ad",
+    "name": "Synthia Seymore",
+    "role": "PHYSICIAN",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "dc6fdbd0-69cb-4680-b899-fb5ed7af08e0",
+    "name": "Ayesha Wissel",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "e6f95449-b7f6-4c69-bba6-fe4921070d2f",
+    "name": "Kennith Donahue",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "5a34711b-f6e6-466e-a3a5-0b605b511116",
+    "name": "Bennie Gierke",
+    "role": "PHYSICIAN",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "e946a493-7e67-4e76-b1f0-d16c5ec66107",
+    "name": "Leota Mausser",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "bb8d8e56-3eb2-40bc-8f92-48558061d4df",
+    "name": "Margareta Insco",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "f4a91b6a-bb13-4c05-ba48-72911165a235",
+    "name": "Colby Him",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "11e4e3bc-a8c8-4dce-a6c6-6ea871f46a5a",
+    "name": "George Hammatt",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "df007d11-d058-4b8b-bde4-b11a767a7cfa",
+    "name": "James Britnell",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "a7bbedea-448a-43d7-8abb-e922e00bdfde",
+    "name": "Carlyn Meidl",
+    "role": "PHYSICIAN",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "cda8ca9d-1ed1-4e04-82ae-835bb55cb629",
+    "name": "Katelynn Roundabush",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "56a376e5-7286-420c-b0bd-3d883c56171f",
+    "name": "Alton Stremel",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "3dc4d009-d7ce-4b91-a8c7-c8321ce481ad",
+    "name": "Benita Scullawl",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "fa7e45c0-7f99-4859-95a9-07a2252fd5c7",
+    "name": "Dixie Deberry",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "5b1aa797-4934-49b3-a060-c5efa3021834",
+    "name": "Reiko Grisson",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "4f4ca8da-d624-4e75-a767-16dd39ca2ff3",
+    "name": "Christiane Iacovetto",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "a053ee4d-8520-4eda-b6a5-5803e6bee963",
+    "name": "Doria Tarvin",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "abb46056-0398-4023-94c3-748bcc1b522c",
+    "name": "Ena Leduke",
+    "role": "PHYSICIAN",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "11f0f67b-279d-4702-a800-9721c347167a",
+    "name": "Stacey Tranel",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "f6b6a8cb-e3e6-41aa-9e2e-c58df8d753d1",
+    "name": "Burt Brash",
+    "role": "PHYSICIAN",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "51cbd67f-86b0-41de-a845-250e80d95466",
+    "name": "Edwardo Swierk",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "23cf8f74-fe6f-4312-8e7c-77862fe7b63d",
+    "name": "Warner Ordman",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "14a9aac4-c76f-4ad0-9939-7b2584843bd6",
+    "name": "Shani Burkowski",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "123d5741-1b16-4563-94da-e8ae226a51f0",
+    "name": "Andra Carpente",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "f21cde64-552f-4f47-a708-069c9249eba2",
+    "name": "Marcelino Blaisdell",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "31c4aa30-faa6-4e59-801c-01af980a9062",
+    "name": "Monty Spira",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "ef03d326-501a-47f4-a5b0-8d54ea39c056",
+    "name": "Lacy Hamers",
+    "role": "PHYSICIAN",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "8b0df7db-f418-433d-bd5a-180e528e6159",
+    "name": "Kris Nolazco",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "029acb7c-4e86-4731-852e-7019624970ce",
+    "name": "Laurie Troff",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "f5adcb11-2a4a-4f04-b872-749686c909fd",
+    "name": "Tad Chappelear",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "48ed7ef0-c079-4e49-8e0e-1c88aa838fe0",
+    "name": "Carmelina Dossman",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "1ca8d2b9-6c94-47c3-8b8a-91f1487173d9",
+    "name": "Janel Slatten",
+    "role": "PHYSICIAN",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "68977de4-e75d-42f0-9977-2090f5b53ccc",
+    "name": "Lemuel Baierl",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "7b275bc0-464b-4d49-ba5d-efc30f3da541",
+    "name": "Melita Brookshaw",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "4550ed33-bbaa-4450-b986-b321f0bdda50",
+    "name": "Elbert Raisley",
+    "role": "PHYSICIAN",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "cfe8a994-baca-4da1-add0-38b5dc0358c4",
+    "name": "Adaline Goldbaum",
+    "role": "PHYSICIAN",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "694563a2-174c-43e6-a6c7-ead610e57aaa",
+    "name": "Earle Gracey",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "4813058d-7988-4d51-b55f-c35f2b2828e2",
+    "name": "Nicki Lansberg",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "3152a09a-a724-4614-949e-1dadc6bb7250",
+    "name": "Tuan Sesay",
+    "role": "PHYSICIAN",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "5e3856aa-d255-4164-be72-ca676e16caad",
+    "name": "Stewart Bridgmon",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "e75cca60-c314-447a-8581-6db060bdaaa3",
+    "name": "Eugene Pierceall",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "4174398f-53ad-489c-a437-02acfc96a092",
+    "name": "Jocelyn Salguero",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "7a9a9f58-0704-439a-9c69-6c4e1df86160",
+    "name": "Brendan Germaine",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "473f37c7-ffb1-4c2f-b741-033849d63cab",
+    "name": "Shelby Ruehlen",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "414552c7-ae27-4101-a6af-7006069c2a0e",
+    "name": "Leopoldo Lockie",
+    "role": "PHYSICIAN",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "4a58f60c-2e9e-4233-aaee-2a67099132a7",
+    "name": "Myron Khano",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "05c6cc37-29fc-48cd-a8e2-ca8f8fa2aba7",
+    "name": "Duane Ost",
+    "role": "PHYSICIAN",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "67e5629b-5937-4b95-a477-b60d1e4e245f",
+    "name": "Marcelino Krzan",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "f3f93abc-9800-4902-965f-02bfeaae62e1",
+    "name": "Leandro Bekhit",
+    "role": "PHYSICIAN",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "0b89b820-659b-462f-a8d4-0724cee4bc6c",
+    "name": "Yvonne Nasso",
+    "role": "PHYSICIAN",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "74fc5670-0438-4296-a56b-1fb342a2cbb1",
+    "name": "Chang Stofferahn",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "c414a997-452e-42b9-8193-9e9aec0371af",
+    "name": "Eric Demry",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "28c4c5f8-247e-454f-9fd2-58c1f30ab27b",
+    "name": "Emiko Melanson",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "643edea3-1aaa-44c5-b2b0-35481e72369d",
+    "name": "Alejandrina Lukach",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "6300c37e-c3e6-4fbc-8c14-5a93577996aa",
+    "name": "Dallas Jaquith",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "29169d9f-5217-4695-b375-d5fda39df566",
+    "name": "Cory Gettig",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "1a7866c5-2f0e-4024-a2dd-91096971c6dc",
+    "name": "Eleonora Amarian",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "252366a7-65bc-4483-be56-ec214beee6e4",
+    "name": "Lou Holte",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "b16e1b7b-4aaa-4658-b8ad-fd8b9d6148af",
+    "name": "Raymundo Careaga",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "ec77c34a-78e4-4126-a391-bf8bbfc6fe51",
+    "name": "Allegra Mccarren",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "62465652-bedc-4eda-9faa-22d560bc869b",
+    "name": "Erica Bielec",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "b068abd0-b076-442d-8db8-23173dd52979",
+    "name": "Colleen Liljenquist",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "773c3e0b-afd1-4bf8-be66-4a0b69f727a3",
+    "name": "Sam Miscoe",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "3f09983f-468e-4450-9084-03691af5a8be",
+    "name": "Richie Westad",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "f3b8c346-e65a-42b9-b039-1bd6644e7c2c",
+    "name": "Rosalyn Deveny",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "0aadd3b6-e052-4bbf-a4ab-833956857f8c",
+    "name": "Wen Stollings",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "6b002265-4f64-419b-a411-f4ab5d0fc1be",
+    "name": "Yasuko Fourre",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "430d7498-1bb7-47fb-85c2-798f823ee6aa",
+    "name": "Rana Vixayack",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "88c15782-b196-423b-87cf-5cc19d458b01",
+    "name": "Wayne Nadal",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "bfbe4443-b255-4b59-afd9-31a85f0171ad",
+    "name": "German Knust",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "e1eef459-c67a-4965-be9b-948aa5300e5c",
+    "name": "Marcus Abramoff",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "75e1e25f-0ce1-4c4e-8042-2bee32785aa0",
+    "name": "Ilda Carriger",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "abccf2ea-1be9-4929-a976-ef41fad384a1",
+    "name": "Lavona Hitchcock",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "0b425019-b710-4daa-8c37-04f3c17f2b07",
+    "name": "Jake Masuyama",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "685baee1-4478-4167-9c0d-47235c529345",
+    "name": "Howard Koss",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "f1d942e6-89c1-4507-806d-40d091ed9fc7",
+    "name": "Cinthia Hansbrough",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "51df3cb0-538d-4a6e-b5d8-8c363d6baf79",
+    "name": "Amber Yanik",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "405b7fbc-41e1-44c7-929b-9a4806b447ec",
+    "name": "Garret Wimbish",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "652a9bfb-82c3-4fea-bb8a-8f0e6dc92237",
+    "name": "Noella Heers",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "be3a5746-e115-4d10-b91f-169c5b518e5b",
+    "name": "Hobert Dadson",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "cb27ffdd-eb0b-4b1a-ae75-051bcb3d9b1f",
+    "name": "Zulema Luckado",
+    "role": "PHYSICIAN",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "ed944959-89ab-499a-9acc-3bf0ae3f4c22",
+    "name": "Arnoldo Blan",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "4baef489-71ae-4afe-9e4c-adc03616630d",
+    "name": "Akilah Widmar",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "8f783e19-d6e9-403d-a829-67cbca523e20",
+    "name": "Shaun Cogburn",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "728d0057-17db-4378-9363-606c21d6a61f",
+    "name": "Alanna Sembrat",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "dcda26fc-7578-4fb2-9928-00829491f9ff",
+    "name": "Carlton Paras",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "fd43cab4-1208-47fe-9dce-b59b720682bc",
+    "name": "Sammy Beckor",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "4eadeeb0-7654-4e3e-836a-f4ccdf9180cf",
+    "name": "Season Duston",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "e623e101-7978-48ff-818a-f5b6b3bf14cf",
+    "name": "Jacquelyne Batterman",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "097a54f0-c822-4f92-bc30-b621abba858b",
+    "name": "Ezekiel Koren",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "e4405886-a4b3-4e68-8c90-01056c92f3b6",
+    "name": "Gene Reagey",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "16fd0f88-28c1-4bc2-ad0e-dd0bc43802a5",
+    "name": "Seymour Martorello",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "96e471ba-58a7-4791-b923-43a08f2f339d",
+    "name": "Annika Hubbartt",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "e16ca31e-8ddb-4060-a28c-4b0a91e8cd4b",
+    "name": "Leilani Raif",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "25988ad0-4be9-4095-865b-7ee0be5da750",
+    "name": "Matt Chesher",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "d123fe01-c6ef-4afd-bd73-9d61339212b3",
+    "name": "Shavonne Kahal",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "ece477fc-b881-4a68-a123-a196ad8e7f91",
+    "name": "Parker Puccini",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "81e1a748-9beb-4a1b-872d-4be4d5cd411f",
+    "name": "Estefana Virga",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "bc94589d-55cb-4ab1-aa76-af89b4d9430c",
+    "name": "Lia Ellson",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "db273d8b-d084-4046-b3ae-e361d409d645",
+    "name": "Samantha Beightol",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "97e74278-bdb9-4038-a9e8-6e237c32bd36",
+    "name": "Raymond Chihuahua",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "79ad3b51-a7c8-4ac6-af5d-9e633ef5b6ee",
+    "name": "Vaughn Sprenkel",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "9ed3e0e7-2952-45eb-bec9-11bec79b7bd4",
+    "name": "Lisa Tisdel",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "97c414bf-62ae-4f1b-9b10-840609d6718a",
+    "name": "Logan Baro",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "1b6ff585-7b9c-4c7e-b531-9827c95d036b",
+    "name": "Johnnie Yasutomi",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "4f26952d-9021-4af9-9d2f-bd2ff057dba0",
+    "name": "Shon Yerhot",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "e85e3856-0624-4743-8cce-e65c274fb1a8",
+    "name": "Wesley Dicampli",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "308a9d63-84ba-418a-ac95-2bda82c6d639",
+    "name": "Dedra Myhre",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "a3aaf310-5e4e-46db-a1da-3a90ba56cded",
+    "name": "Wilburn Adamsky",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "970e9565-818f-4e17-b389-df5919a491ef",
+    "name": "Guy Gire",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "2ee32126-1b3d-46f9-8094-fc204b6a80cc",
+    "name": "Rocky Wrinkles",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "1a69e7a8-87a7-43a9-be61-8e7dc7cb7256",
+    "name": "Abe Dayton",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "c527c3c2-fa0c-4a44-8425-8c5889207c92",
+    "name": "Krystin Freels",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "7dbcc58a-a284-4481-8cea-ddc8e56e40af",
+    "name": "Lexie Pawlak",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "b0bed337-de1f-4c2a-b471-84dc4af358a7",
+    "name": "Lashay Tinsman",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "00632e57-3f8b-4357-899c-8ceaf9943f43",
+    "name": "Gussie Manby",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "a6b11fb8-6a37-4c1b-a858-a185b9e96baf",
+    "name": "In Westenberger",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "78ddb762-2b3a-45e0-93b9-d3b43308e1ca",
+    "name": "Bud Strevell",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "0bd4b6a3-9fb6-4692-84c7-17e6a635af6a",
+    "name": "Allyn Abbatiello",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "c784b019-dd1c-4db5-be85-2dcc1eebe648",
+    "name": "Vivian Panchal",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "4efe7307-cc3c-4bfa-a0db-d5e005b4ff43",
+    "name": "Salvador Farfalla",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "11cb8ef1-bbf9-42c9-90c3-e6b3f7d5ffc8",
+    "name": "Rosalinda Boards",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "9d960bf3-7444-4f94-9368-afb750a6f629",
+    "name": "Rosann Raitt",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "510f0dff-ef7d-45b3-b965-c88ec00712bd",
+    "name": "Jonathan Garbe",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "ccd62859-a556-46ac-b35b-bc00fc4d50cd",
+    "name": "Irving Sherow",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "224901f3-7788-4d2e-b9e1-d3b7bbb57825",
+    "name": "Darlena Defreese",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "f3907081-6090-4d72-8bec-6f8f9b9a1781",
+    "name": "Virgilio Benites",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "fe634b61-baf4-49b8-9484-9e7581b2bf52",
+    "name": "Verlie Hubin",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "cb5956ec-ef56-43ee-bc3a-dd7f6cd3b7f0",
+    "name": "Sherell Almsteadt",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "cf21d8b2-7302-4fb4-89bd-e141fd19b9da",
+    "name": "Raul Lamarsh",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "050bac12-dcb2-4693-8e64-d09bbe1b062f",
+    "name": "Bertram Vinsant",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "93986805-5f12-4ff4-954f-018b6645d869",
+    "name": "Young Bizarro",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "728d91fb-b824-497b-8709-b6d27dc8fb4d",
+    "name": "Hobert Mcmillin",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "db674bfc-a26f-4566-b30f-4f60c569b1ff",
+    "name": "Humberto Bondanza",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "c6dfa38a-8cc8-4149-b84c-d49a64a80c87",
+    "name": "Fabian Hotaki",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "a79d60e9-3704-4576-b0e4-1c3588dc914e",
+    "name": "Marcelino Wander",
+    "role": "PHYSICIAN",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "12a5d4c3-16f9-408f-8e78-cb553b5c4d91",
+    "name": "Warren Staniforth",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "da5eebb3-706e-4f86-b436-962924d0d6fa",
+    "name": "Winifred Wolters",
+    "role": "PHYSICIAN",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "9407de7e-a39b-49be-bd18-ad736b39e33a",
+    "name": "Gavin Balerio",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "19919dc0-7f23-493a-a279-b636b36c1efb",
+    "name": "Errol Inman",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "c051fde5-12c4-4c38-95dd-0354f4512186",
+    "name": "Jovan Lederman",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "a0e6de8b-f8e9-47d8-8e9d-51006c0cfc31",
+    "name": "Devon Sterba",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "dfbf8a02-f680-4d95-9174-d2d65fd88a63",
+    "name": "Roy Seber",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "3788c29f-ec73-4e60-be5c-e0e3f461257f",
+    "name": "Cecille Gossow",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "f74c1b9b-5284-44da-b137-37bd1673e3fc",
+    "name": "Winston Claghorn",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "489d773a-dfa3-45a9-a967-b910fceedf2b",
+    "name": "Donnetta Lindersmith",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "8242eceb-4aee-4037-9b0b-e4ed3f5b8d6d",
+    "name": "Chanel Wendolski",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "cbed5ea5-7ccf-42ec-8dfc-7e17cf04c394",
+    "name": "Donette Vivas",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "0c2b6854-55ca-4c02-b361-6e3eb31ee0a0",
+    "name": "Carrie Brunton",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "3d4fbb4b-c484-40dc-ae09-05f71ba1bc89",
+    "name": "Andreas Folson",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "67cff1ba-4561-4ad2-9834-cf296e33e8f9",
+    "name": "Mariano Schoeben",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "271300bd-0d78-4423-bd32-a0e0352148e5",
+    "name": "Annamaria Moreles",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "317b8504-3300-44c3-8dd7-8b3153c1498f",
+    "name": "Antoine Olverson",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "118275dd-7c15-422e-af21-83a31fb9ee27",
+    "name": "Leticia Gebrayel",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "c3e9568c-0a0e-4ad2-9838-a2ea47d8ed5c",
+    "name": "Floria Barrs",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "333278ea-74b0-4a74-865f-1e90482709af",
+    "name": "Kareem Bekins",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "3dbd2b41-e557-4d6e-a65e-630ed7b008fb",
+    "name": "Dorian Mayshack",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "f2dab653-f313-4be2-8776-e4ef9a802ab4",
+    "name": "Nicolas Rintharamy",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "409a76e1-1796-42e4-ab6b-9a2e88da22da",
+    "name": "Irving Outen",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "e9fa6c43-af97-45e9-a44f-3e67eea9099b",
+    "name": "Arlinda Mccornack",
+    "role": "PHYSICIAN",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "4d79e10d-2064-4d2a-81d1-b6ea0cc9b7c0",
+    "name": "Riley Chimera",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "3266a662-b815-490f-9afd-9306d2f56fd8",
+    "name": "Herbert Imgrund",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "ba812dfe-ddb2-4b3e-ab5a-13ec40d2aabd",
+    "name": "Doyle Enyart",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "c2ca7cf7-c0c1-4559-9f34-cda7e84a8a0a",
+    "name": "Regenia Nopachai",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "c422af32-95cb-46ad-8148-0c67c8a4615c",
+    "name": "Cletus Overgaard",
+    "role": "PHYSICIAN",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "69f7f03a-e92c-466c-b541-a072ebbe737c",
+    "name": "Daron Risi",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "a0935dd6-884c-4c9a-a6f1-e343f547804b",
+    "name": "Camille Bruestle",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "7a2502c8-34e7-46bd-896f-80a71b77927a",
+    "name": "Felipa Biesecker",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "74bf9a95-50ef-4e5d-ae09-90e125e885f6",
+    "name": "Annamae Letizia",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "f0b62c9c-7ed1-468a-89f6-a8954855c235",
+    "name": "Demarcus Leith",
+    "role": "PHYSICIAN",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "f8813236-e9be-46cc-b5e2-12fe4e6a2f49",
+    "name": "Susann Shellum",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "b15393d0-ac2e-4844-94c6-a6b7d44cc978",
+    "name": "Janae Summerour",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "21e6db6a-71af-4784-bd84-66e1390d8a97",
+    "name": "Vince Matute",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "ae94c263-9837-439c-ab40-5ba0b255794c",
+    "name": "Brigette Speckman",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "ab0275d4-0533-413d-a2e5-64c3ad328022",
+    "name": "Josh Uebersax",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "9c39d02a-13a2-4829-9761-70455f4457c7",
+    "name": "Ashlea Lashley",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "a7fea496-c6f3-49fb-981d-23fa777bf170",
+    "name": "Anamaria Tonnar",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "2a54a196-5ec7-4fe3-841f-4102164eae00",
+    "name": "Kermit Knights",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "f2aa7304-33c5-41fc-830e-23b1bbf17a53",
+    "name": "Karlene Pegues",
+    "role": "PHYSICIAN",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "c24b2418-dc5b-47e7-92c4-2dcd14013ab3",
+    "name": "Rolland Craigen",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "e02916e2-9b9c-4c8e-a6ff-60082d7b0029",
+    "name": "Shavonda Gouthier",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "ce52cf40-d229-42d3-a66c-a2be1c232229",
+    "name": "Jospeh Searls",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "3400e40b-1bad-458d-9c02-94ffc0193b27",
+    "name": "Minda Hermosilla",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "6aec681d-b429-41be-b0fc-faec103d9390",
+    "name": "Ilana Mixdorf",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "6d808e0c-bf8a-418b-8f38-6ebcba2359b5",
+    "name": "Natisha Tavaris",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "f33d9a39-61eb-4ad1-bc5f-1ff58cffd70b",
+    "name": "Elia Mortensen",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "7f0ace32-010d-442d-921d-891369929705",
+    "name": "Ernest Goldy",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "71af0f33-2b10-4b91-a9de-d0ca758a2fe0",
+    "name": "Bryant Whitlock",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "27a6ef33-b1e5-4811-b24b-6584fe21ff35",
+    "name": "Duncan Gabaree",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "11872d7a-09b2-4b0d-b949-c3fd0b32234d",
+    "name": "Charley Rhoads",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "821923ce-8f9d-4254-bb11-f2fe6cd36433",
+    "name": "Elizabet Lukin",
+    "role": "PHYSICIAN",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "03ad2ec2-a01f-4c2a-a9b0-d372682a69b7",
+    "name": "Margit Morton",
+    "role": "PHYSICIAN",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "cbd602a2-28bd-4ff6-9aea-f7dcc80012f0",
+    "name": "Vito Ellis",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "e283458a-5137-4246-a00c-855a805b12f9",
+    "name": "Saul Reasons",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "4e75a81d-a51c-48ed-907d-dca04c7368d5",
+    "name": "Tierra Kennealy",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "f141b69e-090f-4c43-bb0a-3f15d9388e9c",
+    "name": "Pamelia Brodis",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "ccf0fb6a-cdc6-4198-976e-2a7e8762b6c5",
+    "name": "Hiedi Heupel",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "593505b1-58dc-4079-beef-030238c35aa3",
+    "name": "Daren Thayn",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "9e7c374b-c120-41a9-b143-1fc331d07178",
+    "name": "Katharine Touart",
+    "role": "PHYSICIAN",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "c9162307-dea5-4794-976b-2ded725ee08c",
+    "name": "Yvette Donota",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "b14c47c2-1225-4ef3-8c78-a5e0964542aa",
+    "name": "Felton Boote",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "3f9c2775-e3c5-494e-a8c0-6e91c06a735c",
+    "name": "Marty Grover",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "56cbaa6a-1013-4625-b050-e94d55908a65",
+    "name": "Milagros Brunk",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "724e5863-c68b-49b7-9957-1001ee0d09c8",
+    "name": "Hee Couty",
+    "role": "PHYSICIAN",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "15a1b038-d381-4b0a-976f-86eb5bd87347",
+    "name": "Vincenzo Snyder",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "904d4940-f83e-426c-a9dc-7959c3f1bcdf",
+    "name": "Burl Rody",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "646d6b37-f7f3-4264-816e-d4dcf1f13596",
+    "name": "Adriene Rubino",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "fa9e53cb-6ad4-4aac-874f-830bfcd518d0",
+    "name": "Jacques Burdette",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "d683fb9d-2ed0-469f-9c5c-8cbfca706e6d",
+    "name": "Nelson Carza",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "9fff181c-5a43-4fcf-8841-a4163df99927",
+    "name": "Lauran Patrum",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "57164eda-06c2-48e5-a73d-6c4eb4aca3c0",
+    "name": "Howard Mcaleese",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "428e9798-8d85-40d8-9902-e87540681419",
+    "name": "Malcolm Mantanona",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "097290be-72a8-4bab-8aa4-04c784e7e18a",
+    "name": "Magan Rynkowski",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "c6829dbd-e42b-4cae-b8e6-e86e018cd4e6",
+    "name": "Janelle Wingerson",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "4060075d-1930-4c74-9433-651cc8e3c5e7",
+    "name": "Donald Cowell",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "df6ff2dd-1dd2-4555-a6ba-9385b6bb242c",
+    "name": "Lesley Carvallo",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "cebc2b14-42ce-4cd4-aa46-4047dbcb5cd2",
+    "name": "Julee Birdsall",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "e550e355-bb88-4a69-ac7a-f40307c4f110",
+    "name": "Nisha Shaeffer",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "2902b9f4-5fc5-42eb-9164-bfb4cc9a9bf4",
+    "name": "Bobbie Rivenberg",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "e41cdb50-b756-4de5-8d9d-3d9872ba567b",
+    "name": "Nadia Schayer",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "45f7b5dd-7620-4318-9fc8-3a32d33b5827",
+    "name": "Dorinda Herbel",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "212d59f8-508c-4fa6-bb0f-d557310bd6e5",
+    "name": "Wilda Bady",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "c6e6ebb9-b613-49cd-96dc-2e0c63aa5786",
+    "name": "Wiley Rolseth",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "1e3961d9-a6da-454e-b9d4-f92d770c2b48",
+    "name": "Shayla Fortado",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "adcbc715-29c2-4039-9a27-5bde337c44f5",
+    "name": "Sarai Mendivel",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "76b76df6-b1e9-4ad1-98d5-7c2ec2b1a6f9",
+    "name": "Burton Desselle",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "43058b75-bc63-415f-8077-e51587272c04",
+    "name": "Parker Corporon",
+    "role": "PHYSICIAN",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "04d35936-b599-4677-a22e-ac483ab8b94d",
+    "name": "Madalene Lofink",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "365b342c-ccd2-4a38-a222-762082b93215",
+    "name": "Clarinda Deaguero",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "74fb55ed-fad3-41e2-ad1b-56675956cc61",
+    "name": "Lannie Ouye",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "b778953a-eb19-4194-b3c8-de7065d657e6",
+    "name": "Arletha Maliska",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "26de6534-86b8-4069-856b-ca0f426af49d",
+    "name": "Herma Cosden",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "3fdae10d-e6db-4324-93ef-e30d92b45822",
+    "name": "Blake Shankles",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "15fb97a1-c9e1-4fcf-8868-cc5a44cae229",
+    "name": "Nellie Wahba",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "569475fc-d5e4-4b3c-8d8c-5373bc7e2787",
+    "name": "Nelson Yagi",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "3c561cec-018d-4c39-8e21-59294741bba2",
+    "name": "Augustine Leuters",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "e85f9213-f96b-4ad5-96a8-490b3e7ba3b8",
+    "name": "Nelson Arnitz",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "7aa29c75-5485-4be1-82dd-fbbb4f7d965f",
+    "name": "Hilario Markuson",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "86fe08f5-42d9-4882-8f80-8f6476f6f862",
+    "name": "Waylon Carrico",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "5c5e02a2-53d3-4355-a2bf-a9bbf66eac1e",
+    "name": "Edyth Turcios",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "8892efdc-851d-4e56-ab60-863d54b12cf1",
+    "name": "Stormy Kowalkowski",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "199ee012-fbe4-402c-bda5-bb809a8bf4b4",
+    "name": "Sherrell Deleston",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "6f2c0351-19e5-42c6-a382-041561996e15",
+    "name": "Yulanda Loosli",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "92d02171-0282-406d-8f65-4f4458b1e206",
+    "name": "Cathern Muenchow",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "6530707e-8f1f-402f-b818-b751576a9dda",
+    "name": "Zella Handville",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "3b08560b-8b97-4e80-bf65-90c3adccd355",
+    "name": "Raymon Stoutenger",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "e4c0695e-f4e7-4dda-a07f-8ba5e99e0097",
+    "name": "Douglas Hamdan",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "54b1ea1b-2c9e-409b-88ce-be2ad438f173",
+    "name": "Jeremy Bearfield",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "507c4fe4-f603-430e-b606-28740487783d",
+    "name": "Erasmo Uihlein",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "e75e0348-6c03-443b-b99e-3e0947d21b77",
+    "name": "Lillie Picciuto",
+    "role": "PHYSICIAN",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "fbb1012a-3ba8-4f48-b668-4708e308acf2",
+    "name": "Jeanne Delatte",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "954d41ec-011f-447a-80a9-1d019db10ba6",
+    "name": "Ellamae Zuehlsdorff",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "e898fb39-fbf6-4000-9360-c0d6a19c7ec4",
+    "name": "Love Kapahu",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "c4f29495-f3ec-4870-b37e-00f4f9247b08",
+    "name": "Marry Lampton",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "716fb370-5e78-4c11-8532-613a75ef9385",
+    "name": "Joey Fabert",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "bb58a4cc-7541-4542-896c-ffa4c4c23937",
+    "name": "Bennie Esquivez",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "7ec577f9-d98d-4044-ae47-7fb4a0a39ded",
+    "name": "Geoffrey Coronel",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "f48153a8-a026-45ca-815c-bced11aab131",
+    "name": "Elwanda Lemmon",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "b70f7827-7943-4864-8a22-54a8ec438986",
+    "name": "Dionne Wentzloff",
+    "role": "PHYSICIAN",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "63727fdc-c631-401f-a49b-1e9a6a095cb4",
+    "name": "Jacqui Dussault",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "85fb029c-4f88-42ca-9d17-dec6e0d32942",
+    "name": "Kyle Ford",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "ae76bf55-01f5-40f3-b3f0-53b5f5c2f865",
+    "name": "Eilene Mirto",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "4610f163-2d78-4188-b99e-390c41d7e814",
+    "name": "Lauretta Sancher",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "e04d3c95-3187-441b-afe2-216668aeb975",
+    "name": "Merrill Cohoon",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "581952ed-a4e6-4af0-9eb5-cf1e6d312800",
+    "name": "Melonie Montesdeoca",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "8e467038-df31-4cf3-b012-66a4c49e436e",
+    "name": "Shu Gocek",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "c16ed010-35c1-416b-b563-29256e4fb8b5",
+    "name": "Kendall Levingston",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "3f9813ae-85a5-4edd-92ea-9964fab370c2",
+    "name": "Suzy Zanes",
+    "role": "PHYSICIAN",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "d3e63883-8ae5-4f77-83a7-9e6e2f08c160",
+    "name": "Zachariah Winek",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "15208aee-c47f-4c7e-b0f9-caf2a9da4561",
+    "name": "Ernest Bungy",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "aef7986b-90ca-4744-9ff4-299edb859040",
+    "name": "Mozella Arnet",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "9c2c3bf8-b08a-44dd-9072-b6150bbbdd88",
+    "name": "Micha Boling",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "fcf2b23e-2f89-4f6e-ab17-693c06867c87",
+    "name": "Zackary Kamen",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "33591032-f481-4207-bd4c-808163d8ec0f",
+    "name": "Kelvin Veasman",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "960f6e03-a7cc-4e7b-a8e2-1577f31af4dd",
+    "name": "Sadie Lomen",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "07daa79e-0173-4b6a-9700-816e5a1d4e30",
+    "name": "Justine Geils",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "b6eb6f04-dcf1-4f49-8f39-cd3063a01f96",
+    "name": "Deshawn Wadsworth",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "d2eef898-13c9-49ee-aa31-1b1e6ac7d895",
+    "name": "Christen Villada",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "29b95b73-fd8a-4860-b5ef-e21820758571",
+    "name": "Burma Galligan",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "ebdd37cf-8042-497e-aec9-800bfcd42a1f",
+    "name": "Darell Marhefka",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "a1aef8e5-5597-4916-8318-58fe101e2fb8",
+    "name": "Lucius Petre",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "377831e0-6348-43ac-aee0-139032aff322",
+    "name": "Richie Rinne",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "b12a5f79-de6d-4a67-aea9-d36214bfd6ea",
+    "name": "Ebony Galinol",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "720d23a9-8fb7-4d06-81c5-3413c2fd08fd",
+    "name": "Amee Delaporte",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "6d989e4e-8506-4988-b130-4cae9798b7e4",
+    "name": "Marlin Legault",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "1d2c1716-3933-49c7-9f06-cb01cfb1f3a9",
+    "name": "Jonathon Biddinger",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "e475ff5a-d3c5-4709-a31e-a6bf3c4a800a",
+    "name": "Keena Chumley",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "3b4cbd35-2d80-4e07-b898-2e210b95c40a",
+    "name": "Rosita Previte",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "a6990def-1cf0-43fa-8d53-a08d3579fce9",
+    "name": "Glenn Haris",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "ce0aa2ac-77ab-4f95-9487-2c3df9d0a0d2",
+    "name": "Jeramy Hildred",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "dc989b86-521a-45c0-80b0-ec85cedf4981",
+    "name": "Marty Biorkman",
+    "role": "PHYSICIAN",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "9823759d-f733-4987-ad37-0ce659372a8d",
+    "name": "Jannie Scola",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "9fb09ea8-92ed-4c6c-ba46-0d6de943134f",
+    "name": "Agustin Moan",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "a9959562-8fc8-444d-8839-e6520f9e202d",
+    "name": "Ivan Mcculloch",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "2e8ae0ef-86de-4a88-8f1d-6a800c66fee2",
+    "name": "Maryam Kleiber",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "a1ae1840-eb37-439e-aeb4-fe9a704b752a",
+    "name": "Mickey Disabato",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "ebf93a50-5c95-42ff-bcf5-8e64a005e1f0",
+    "name": "Jacelyn Desfosses",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "704c8f9c-f62e-4bff-b897-313574fd7b37",
+    "name": "Hailey Koepf",
+    "role": "PHYSICIAN",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "14ad7673-520c-405a-9735-246272aca2c9",
+    "name": "Roosevelt Desamito",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "9e4a5efe-a7c1-4159-91c9-b8068b7c241d",
+    "name": "Aubrey Stukes",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "0b0b6c4a-24f8-4ed5-a0d0-e1e61185ee47",
+    "name": "Jina Lamoureaux",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "8012dd4e-a2d0-45b2-b09a-c36db36f3f20",
+    "name": "Wendy Alarie",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "012fcc20-fb8f-47ec-a955-ef5ad3c41e2c",
+    "name": "Willow Ceglinski",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "513d70d8-9f05-48c6-9a94-084e29ac55e9",
+    "name": "Doyle Tuerk",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "dcc5f269-cb87-4248-bc82-1ae58105d7c8",
+    "name": "Efren Forness",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "56bb233e-2a03-4adf-8cf2-0ac49eb2defb",
+    "name": "Lelah Buchko",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "ea63607c-f09d-4ddf-bafd-9ec3f8b79346",
+    "name": "Ludivina Gras",
+    "role": "PHYSICIAN",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "31f1a8b9-a7ea-4eab-a7c2-34c092d97dc5",
+    "name": "Tierra Geeting",
+    "role": "PHYSICIAN",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "32d50331-d125-42cd-a4ff-957fc784a9ec",
+    "name": "Wilbur Perteet",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "ce842c8a-2cd1-4edb-8346-ece9f15b7536",
+    "name": "Aron Burwood",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "d490a324-6645-4782-9395-6a86ac79ec5e",
+    "name": "Moshe Locke",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "62d2f19d-8829-4d71-a02d-c86830b3623b",
+    "name": "Rhett Mahomes",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "7a412ca4-0fd2-4a03-a438-27d5466eb6e5",
+    "name": "Fred Brint",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "94837f92-ff8c-4f89-9b26-540537bc9276",
+    "name": "Denis Varvil",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "8a301ec9-144c-4172-993c-dea8a30396ce",
+    "name": "Emmitt Pottkotter",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "7db4b7f3-fcfc-4ffa-905e-6071bdf5ecff",
+    "name": "Fernande Kleypas",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "6d6311c7-2c3e-431b-a303-cb3f8a16f093",
+    "name": "Corinna Bazar",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "c2b94b00-f28a-442b-9ecd-8d294feb6df7",
+    "name": "Earnestine Habash",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "2ba8ee78-2982-43a6-8c69-19480c8549bc",
+    "name": "Latarsha Wyms",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "be3c5271-031c-45f0-925a-c3a5671f955b",
+    "name": "Ralph Sturwold",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "9fe34e22-0c64-4468-a1d6-8d882d974617",
+    "name": "Sheldon Degeorge",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "e09857f8-9f50-4830-9e30-af6f611f409d",
+    "name": "Rosalyn Philippi",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "635e8fcb-529d-4897-bfe3-7a3c910e921e",
+    "name": "Ardelia Goodwill",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "f6d16a35-766a-4afa-a3bd-9069d163c6b6",
+    "name": "Rudolph Logemann",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "4694ba88-5998-40b4-9626-3f8dba86da42",
+    "name": "Lacy Rollock",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "c1b726b9-3932-456e-ab55-9755ffb877da",
+    "name": "Eleanore Maletta",
+    "role": "PHYSICIAN",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "95b0c049-7d0a-4c91-a0a6-5fd0e6073ad0",
+    "name": "Albertina Heitz",
+    "role": "PHYSICIAN",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "92ee600d-8906-4baa-b1d5-b9ae1dfacfb7",
+    "name": "Shelli Tabian",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "b632e569-5511-424d-9918-ed5e27382931",
+    "name": "Hue Puffinburger",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "0a00d206-44d9-4dc3-9a23-896cd7c720e0",
+    "name": "Lucio Thoma",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "cfb1ffc3-2393-448b-8feb-f71403d69368",
+    "name": "Tobias Vlashi",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "46618986-68f4-4362-aaab-2befdc6373bb",
+    "name": "Cody Denfip",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "53bdc1b5-ae53-4f0b-bcc6-2838c32454cc",
+    "name": "Romeo Bomilla",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "069eb6d1-c28d-40cb-80ab-46a93d0065b9",
+    "name": "Hobert Shao",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "64dc79a9-e979-44ac-8b39-b1dd16ab8a06",
+    "name": "Christina Starwalt",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "af94c820-7d01-49c0-b9ed-aab3a053827e",
+    "name": "Monica Tiffner",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "86e03fe8-0d4a-48ef-96d4-a4bedad04948",
+    "name": "Orlando Mccalvin",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "1e3d55de-2366-44f6-b5fd-7351d9e81624",
+    "name": "Retta Pencek",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "88101367-1861-44e2-9615-63592845f1a2",
+    "name": "Brandon Ertel",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "f4d314d5-bb8f-4b57-9d99-956d17c3e800",
+    "name": "Tomiko Fahey",
+    "role": "PHYSICIAN",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "91f92f65-f270-4558-8995-32b6da8c8928",
+    "name": "Catherine Gumaer",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "2faf49ba-e026-434f-a986-cabc8bd449c9",
+    "name": "Leigh Bruff",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "5ed171e6-4315-4678-9d63-37837fe9aa8f",
+    "name": "Reda Littich",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "8b2a95c2-4768-488d-96ef-6811f0e698f5",
+    "name": "Brad Walbrecht",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "6297e979-ef8a-4fc7-a80f-71c80612c310",
+    "name": "Eddy Schorn",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "fc8f57d2-0c3e-4fba-9abf-2c4289076bfc",
+    "name": "Alesia Verdell",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "bcf75cec-01b5-4f70-89cc-55b82de1de96",
+    "name": "Toccara Olp",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "1bf82340-5a78-439d-bfd9-79d734772355",
+    "name": "Delena Anchors",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "848208ba-3a9c-44b8-a64c-bd32fc65b8b5",
+    "name": "Jacinda Sandmeier",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "b1ce1929-30d4-4b3c-91a1-32f0d06d275c",
+    "name": "An Sperle",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "cd6c511b-c381-4d51-870f-a861165e8f2a",
+    "name": "Cherlyn Keeler",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "dbba4828-a2c5-4f02-a1cc-8e2bc8941ef7",
+    "name": "Sterling Spragley",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "7aca945f-a4e1-41cd-9db9-b26caa90597a",
+    "name": "Dominic Dicicco",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "b3df74f6-ef31-46de-a1cf-6d29f1b050c8",
+    "name": "Reginald Jenison",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "61a7e22b-4774-4b74-8a04-21ba08455bcb",
+    "name": "Johnetta Lubeck",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "04a5b79d-f29e-4331-80e8-db4675e9c117",
+    "name": "Trista Scalice",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "e80a09a9-c1b1-4288-bd4e-3a98ee375a6e",
+    "name": "Tammy Sands",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "76b91774-027f-4dcb-a384-c4162c13e062",
+    "name": "Robt Wildeman",
+    "role": "PHYSICIAN",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "36220e8f-4e51-467a-8a7e-46c2d065a135",
+    "name": "Gianna Mckimmy",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "f26cdde5-b631-4708-8bcd-712d2e44ddf7",
+    "name": "Tamekia Oshea",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "054bfa59-6930-4d92-9c1e-16d16813b5db",
+    "name": "Jarrett Buster",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "559bedce-b119-4bb9-9f8b-41072dbda965",
+    "name": "Carol Swearengen",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "3e4f367b-cda8-4753-b079-8b8be7714780",
+    "name": "Lane Schuttler",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "088f4259-f808-458e-8215-00452b6dde2c",
+    "name": "Lee Larman",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "c802d30d-cb86-42c7-8aeb-667c2ce20a0b",
+    "name": "Augustus Sures",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "adbc3ad4-45ad-4c9a-a600-7c204aaa32d9",
+    "name": "Janiece Sicks",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "a3ba2936-719b-4a0f-ae4e-adf9ee232648",
+    "name": "Larita Cholico",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "39b17566-f603-4c2b-82b4-5de7ee7b597a",
+    "name": "Bill Milera",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "e701b2ca-2b52-4188-827b-36e5a6804190",
+    "name": "Elke Jehle",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "6b94606b-9dbd-4f02-b1d1-769945eeba01",
+    "name": "Elias Mullice",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "efbf3dc6-88ff-4609-a14e-95418a18a4b8",
+    "name": "Devin Gallington",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "a48c3486-1a52-4add-82ab-3b68c1f59dbe",
+    "name": "Tamesha Shemanski",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "cebf8a40-f700-40c9-a0c2-2d04c53c8a2e",
+    "name": "Houston Bagron",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "6bff2d10-7723-4cb9-b366-8f99b4a66664",
+    "name": "America Bagni",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "1199253a-c270-4521-bd3b-38a7f29beb0a",
+    "name": "Lucius Tsuda",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "a580c72b-e51b-4e41-ae75-4f0f18fdd368",
+    "name": "Reinaldo Medford",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "548ce032-08b5-44f1-be8e-28be90c4553c",
+    "name": "Jenette Mcgonagle",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "31944941-8e09-49a1-b3b9-9e4527daf50b",
+    "name": "Dominique Baille",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "59e6d2da-c55e-4606-8d7d-a3a3c5016841",
+    "name": "Kay Kintz",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "933562e8-ce8a-4806-ba87-f6eb26aa3064",
+    "name": "Wilson Salkeld",
+    "role": "PHYSICIAN",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "cb533e95-9778-4205-a64a-fbd2bda1c6df",
+    "name": "Russ Khosravi",
+    "role": "PHYSICIAN",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "9e19cf41-c96b-4b3e-9186-63950329ba0b",
+    "name": "Taylor Vebel",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "5add0f14-4bf7-4f0c-bbbc-24773e504e79",
+    "name": "Sylvester Schnader",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "08997ee4-23e4-4d43-a19d-142bca943c7f",
+    "name": "Mason Garn",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "6051530c-761a-4c1c-936e-009526736195",
+    "name": "Demetra Goldthwait",
+    "role": "PHYSICIAN",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "4f06c8e0-eec9-4bff-a026-abef602966e8",
+    "name": "Eddy Vereb",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "90a02a57-904d-4c01-a454-e82401601652",
+    "name": "Williams Gwartney",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "f50c56e1-216e-49ae-a18e-0ef30a0c4e89",
+    "name": "Christen Swinson",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "b768c47f-91be-49b3-9e61-4850f511cfc9",
+    "name": "Lillia Alecca",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "649d694d-0630-45b8-97b7-f0b7b514cd97",
+    "name": "Cornell Swartzentrube",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "80c2b1d1-f78f-4a32-a675-23c61ccc75f7",
+    "name": "Felton Turnbaugh",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "ae27d1cd-2ebe-412e-82bb-058cd0e635dc",
+    "name": "Jeanna Deldonno",
+    "role": "PHYSICIAN",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "fadb8c89-56c5-45fe-8b31-8e62e537bc1f",
+    "name": "Isaac Crigger",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "82a2cbad-fd44-4718-a003-96819faf09f6",
+    "name": "Genesis Todorovich",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "b56829da-deac-4976-bae1-fd057150ca37",
+    "name": "Columbus Alaibilla",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "653288e5-6d81-4fa5-8784-f47b3f7d6185",
+    "name": "Boyd Abdon",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "42d0279a-6b23-4d09-becc-5878ef61be3e",
+    "name": "Wilburn Centorino",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "962a7c21-9b5a-43ed-b54d-4d2c14ca9bf9",
+    "name": "Inocencia Grewal",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "f38c6585-b3a6-49cc-be16-71cb93c21cdb",
+    "name": "Willow Galecki",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "4e061b2d-4813-40e2-990d-228d8047f253",
+    "name": "Jonah Gowdy",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "97e9dd9c-d572-4334-8e1b-5d1604fee056",
+    "name": "Alec Colleran",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "23a7e28d-28db-4d3d-a956-ef493a01be2c",
+    "name": "Carolyn Oldani",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "1da8d373-4514-42c1-b94e-53e4e81654ae",
+    "name": "Williams Elenbaas",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "b01f0d2d-39e9-41fd-8cd2-d382415aa54e",
+    "name": "Scott Stigler",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "f139909d-98c8-4a51-8a6f-3520e874e31b",
+    "name": "Elvia Roshak",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "0c553745-6524-4358-9649-48f0d15a3120",
+    "name": "Marcus Lechler",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "dae83229-31f6-4c43-a710-500983f9164d",
+    "name": "Darin Morgas",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "422ce1e2-4e34-4c43-b362-7d912450a64f",
+    "name": "Margret Hancox",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "35281c7d-4b12-4b13-a0a2-9e5b5947d96f",
+    "name": "Brice Baggette",
+    "role": "PHYSICIAN",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "18dce9cc-c805-4ddb-a085-b8c113bf8f75",
+    "name": "Darrel Flannery",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "bbd90710-fbe6-4b43-a7c4-41242f9f613b",
+    "name": "Erich Spingler",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "156c56e7-fb76-4280-86f1-c9a05ce5a690",
+    "name": "Ocie Nuvallie",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "7bebef3f-69c6-4b14-a04d-94171b0cbecb",
+    "name": "Ronald Gather",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "e3fa51e4-47e1-4fda-a124-bc6d00f2792e",
+    "name": "Lester Helvy",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "f1f4bc90-28e8-47af-9039-84f2b6003a59",
+    "name": "Lucia Millerr",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "006acec8-0aa0-4719-94e2-5601b3df8e87",
+    "name": "Nora Steiber",
+    "role": "PHYSICIAN",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "de2197d1-4b36-43c5-97ad-eb5b8d9cf7c1",
+    "name": "Tod Zwilling",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "9456382e-ff31-4ac5-a184-fad856cc0577",
+    "name": "Sal Mojzisik",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "d3a6aace-1b31-48d6-9484-9920984681c9",
+    "name": "Cinthia Jill",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "ea865a78-3bd4-49fd-bce4-5e9f5402aec4",
+    "name": "Lyn Laguardia",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "c251b150-1cf3-4b96-b782-c4e1f1315198",
+    "name": "Blake Tietjens",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "5c871e15-6b71-4fc8-bed8-32744162f86b",
+    "name": "Shane Manera",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "df400776-a0cb-4e9e-b2e1-1411bf48250d",
+    "name": "Lisette Vein",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "7f7e1bee-b68e-443f-a8b3-6db9d1f13b4e",
+    "name": "Gustavo Host",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "aa6f86c3-03e1-4249-bc5b-2795d23724e4",
+    "name": "Valentin Neuschwander",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "8b5825d7-4e32-49a2-bb79-c9d2457a09eb",
+    "name": "Dewitt Stasio",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "13a96a73-cb26-44fa-8bf5-db320408d53a",
+    "name": "Lelah Karnopp",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "8294f98a-0024-4b4b-8080-3a0f6d916e42",
+    "name": "Destiny Ramoutar",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "126cb58e-f242-4de4-8738-5c4dd760d229",
+    "name": "Nelle Apley",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "8bed4373-e6de-4c45-b2fe-92a71087022d",
+    "name": "Adolph Ybarbo",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "77725b23-cb36-4b03-aa88-457355655456",
+    "name": "Jarrod Beliles",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "0c4420f9-4290-41a0-b256-3ea93f7a46bd",
+    "name": "Lanora Salera",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "857db63c-f04c-4c52-87ce-bb05ed407ad1",
+    "name": "Kathlyn Pondexter",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "e09dca86-2bef-4a58-82b4-8ae0fd7fa77e",
+    "name": "Drew Buys",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "ec30e490-df83-4277-8254-d349744c94f5",
+    "name": "Kenda Dulak",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "3a0b097d-cd1a-4cdc-841d-237e9c41bd50",
+    "name": "Rene Shevlin",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "453e4bc2-2dd9-4542-8e38-d0e1d87a8097",
+    "name": "Katrina Lucey",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "3f865337-16a6-4d36-a780-bdb930436390",
+    "name": "Luciano Bedenbaugh",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "1904ff6a-14cb-4377-92b1-bb71c4933d64",
+    "name": "Alton Ebbs",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "4360a48e-19c6-4dd2-9d67-548d7e958525",
+    "name": "Tasia Kirtner",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "9c249d1e-7e13-4285-90d8-90055d2921dc",
+    "name": "Marge Palmese",
+    "role": "PHYSICIAN",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "0c819116-ae09-429b-aa42-59052f843189",
+    "name": "Kristel Molyneaux",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "a8daf32f-f27b-401e-9cbd-1fb05747d837",
+    "name": "Helaine Mcbratney",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "e14a5a19-a875-45a6-b1f9-38280db63c6f",
+    "name": "Andrea Latson",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "3aed37d7-f2fe-490c-848b-05394e331851",
+    "name": "Julio Rajaratnam",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "533402c7-6601-4f99-be44-b274fcf031ec",
+    "name": "Aline Caddle",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "dc129ebf-377f-498f-beab-d14491f49e14",
+    "name": "Synthia Menchen",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "4ac72835-f6b7-4910-aed5-bfc54b8d1323",
+    "name": "Shanti Balo",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "d1b8e11a-0521-4707-a1fa-d054daa87128",
+    "name": "Lydia Usie",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "69410cd6-3c5e-49c6-82b8-1cdabd227d54",
+    "name": "Bruno Gnabah",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "6518d312-7901-490e-8004-cd70d4174b14",
+    "name": "Blair Tirado",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "9fe06602-5128-4625-a982-0ec2557846b3",
+    "name": "Tawanna Epp",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "72e0d2f6-5505-4248-bff4-f4a900d15f3f",
+    "name": "Lizette Mirabella",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "e4150045-db93-4c43-a785-0ecaa3781fe4",
+    "name": "Darrell Lussier",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "ac3d19e4-affd-4006-8eb2-3b9c8afacf93",
+    "name": "Jared Mbamalu",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "588733c8-a868-42e8-aaaf-a51c67842253",
+    "name": "Palmer Lepper",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "f1d483ea-4742-46ff-a297-12e96245eeab",
+    "name": "Giovanna Lintz",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "f995d52e-b584-4440-98aa-406c571adda4",
+    "name": "Otto Valdespino",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "c487946e-3ebf-4d69-a04f-ac81260906b5",
+    "name": "Earle Pillow",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "719bcb93-3e47-4f32-93ef-c8b0b1658ef2",
+    "name": "Monty Zearfoss",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "56efc17a-3d37-4991-b867-a823d4bb2841",
+    "name": "Stewart Vanstone",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "67014409-8803-4e85-abf3-91bcef5a77ef",
+    "name": "Earnestine Blomberg",
+    "role": "PATIENT",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "ee0b15d3-50e3-4494-80c2-d53b03c884e3",
+    "name": "Cecille Tavano",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "c1b340eb-d5ab-42b7-a83c-d7cdb2620adc",
+    "name": "Raye Copening",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "d1b7f26e-a8e1-4504-b888-e340ca235ee4",
+    "name": "Marget Fortney",
+    "role": "PHYSICIAN",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "0f438b49-4978-4de3-8c7f-3a2fae942b4d",
+    "name": "Frankie Imbert",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "4b9addf5-9263-4404-a5b0-e34a68cfba56",
+    "name": "Franklin Hovard",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "9dcb2bd4-d67e-4de5-937b-52ff58b4075f",
+    "name": "Sherman Quezad",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "7b44b7bc-ef7a-4605-b2cf-2c36731eded3",
+    "name": "Karl Scarritt",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "1f8317c8-c092-49dd-8f16-e2a5222af323",
+    "name": "Ty Vanorsdale",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "ffaa2ccc-5b8c-4bfa-987d-4ffe0c3a3a59",
+    "name": "Errol Mangiapane",
+    "role": "PHYSICIAN",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "730e602c-53fa-41a0-9e50-5556e9633371",
+    "name": "Jayson Illovsky",
+    "role": "PHYSICIAN",
+    "closestClinic": "NYC"
+  },
+  {
+    "id": "62b79ea1-1af6-4ace-8399-edd6be8f6257",
+    "name": "Johnson Gazo",
+    "role": "PATIENT",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "f214f715-bb59-420d-91ec-5f18ff248389",
+    "name": "Lacy Messan",
+    "role": "PHYSICIAN",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "3e2b0d52-d609-4e71-a840-711ae712080c",
+    "name": "Yelena Hilty",
+    "role": "PHYSICIAN",
+    "closestClinic": "BOSTON"
+  },
+  {
+    "id": "f9113e19-6ac4-4563-9255-cd841aa1c73f",
+    "name": "Krysten Vanbecelaere",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "11e42bae-73c8-4c04-976e-2b1a4ac6cdf2",
+    "name": "Dirk Alizadeh",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "eb1fe812-72a3-48db-8a79-bd7a3ebe4855",
+    "name": "Shanika Bounleut",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "c1d8d6b2-34a3-457a-8999-faf25a3519bd",
+    "name": "Yaeko Hochschild",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  },
+  {
+    "id": "5ad9ea23-6544-4d4f-9091-4b5ef4c05fd5",
+    "name": "Rodrigo Malach",
+    "role": "PATIENT",
+    "closestClinic": "PORTLAND"
+  }
+]
