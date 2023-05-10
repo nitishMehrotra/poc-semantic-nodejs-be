@@ -1,4 +1,7 @@
 import { Prisma, PrismaClient } from '@prisma/client';
+import Stripe from 'stripe';
+const newStripeRef = new Stripe('key', { apiVersion: '2022-11-15', });
+
 import express from 'express';
 
 const prisma = new PrismaClient();
@@ -101,6 +104,49 @@ app.get('/patientPhysicians', async (req, res) => {
   catch (error) {
     res.json({ error: true, data: "Internal Server Error", statusCode: 500 });
   }
+});
+
+
+/**
+ * Create a payment intent to charge a customer with x USD.
+ * CustomerID and amount to be provided in request body.
+ */
+
+app.post('/create-payment-intent', async (req, res) => {
+  const { body } = req.body;
+  const { customerId, amount } = body;
+
+  try {
+    const intentRef = await newStripeRef.paymentIntents.create({
+      amount: amount,
+      automatic_payment_methods: { enabled: true },
+      confirm: true,
+      currency: 'usd',
+      customer: customerId,
+    });
+
+    const data = [{ paymentIntentRef: intentRef, customerId: customerId }];
+    res.json({ error: false, statusCode: 200, length: data.length, data: data });
+  } catch (error) {
+    res.json({ error: true, data: "Internal Server Error", statusCode: 500 });
+  }
+
+
+  /**
+   * TODO @nitishmehrotra - Complete the onSuccess and OnFail handler. Uncomment the endpoiint post that
+   */
+  // app.post('/charge-payment-intent', async (req, res) => {
+  //   const { body } = req;
+  //   const { };
+  //   try {
+  //     const data = [{ message: "Payment has been charged" }];
+  //     res.json({ error: false, statusCode: 200, length: data.length, data: data });
+  //   } catch (error) {
+  //     res.json({ error: true, data: "Internal Server Error", statusCode: 500 });
+  //   }
+  // });
+
+
 });
 
 const server = app.listen(3000, () =>
